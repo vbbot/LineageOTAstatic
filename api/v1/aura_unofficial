@@ -1,0 +1,19 @@
+{
+    "response": [
+        {
+            "incremental": "1738239427",
+            "api_level": "35",
+            "url": "https://github.com/vbbot/android_device_razer_aura/releases/download/20250130v1/lineage-22.1-20250130-UNOFFICIAL-aura.zip",
+            "timestamp": 1738239427,
+            "md5sum": "",
+            "changes": "https://github.com/vbbot/android_device_razer_aura/releases/tag/20250130v1",
+            "channel": "unofficial",
+            "filename": "lineage-22.1-20250130-UNOFFICIAL-aura.zip",
+            "romtype": "unofficial",
+            "datetime": 1738239427,
+            "version": "22.1",
+            "id": "eb8849b118a91f37e202c48862d0514b1fe0f84551d04e4ada63c2881c15bc81",
+            "size": 1049806669
+        }
+    ]
+}
